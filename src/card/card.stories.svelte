@@ -16,8 +16,9 @@
       },
     },
     args: {
-      title: 'Card Title',
-      description: 'This is a description for the card component.',
+      title: 'School of Fish',
+      description:
+        'A school of fish is a coordinated group of fish, often of the same species, that swim together in a synchronized, unified direction.',
     },
   });
 </script>
