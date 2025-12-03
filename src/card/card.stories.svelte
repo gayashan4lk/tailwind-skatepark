@@ -16,8 +16,9 @@
       },
     },
     args: {
-      title: 'Card Title',
-      description: 'This is a description for the card component.',
+      title: 'Title of Card',
+      description:
+        'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
     },
   });
 </script>
