@@ -16,9 +16,9 @@
       },
     },
     args: {
-      title: 'Title of Card',
+      title: 'School of Fish',
       description:
-        'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.',
+        'A school of fish is a coordinated group of fish, often of the same species, that swim together in a synchronized, unified direction.',
     },
   });
 </script>
