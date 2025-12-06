@@ -12,12 +12,12 @@
     aria-invalid={!!error}
     aria-errormessage={errorId}
     {...props}
-    class="block w-full rounded-md bg-slate-50 px-2 py-1 outline-2 outline-slate-200 focus:outline-2 focus:outline-blue-400"
+    class="block w-full rounded-md bg-slate-50 px-2 py-1 outline-2 outline-slate-200 user-invalid:outline-red-600 focus:outline-2 focus:outline-blue-400"
   />
   {#if description}
     <p id={descriptionId}>{description}</p>
   {/if}
   {#if error}
-    <p id={errorId}>{error}</p>
+    <p id={errorId} class="text-xs">{error}</p>
   {/if}
 </div>
